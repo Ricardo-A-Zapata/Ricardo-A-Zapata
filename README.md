@@ -43,19 +43,3 @@ Here’s a collection of the programming languages, tools, and technologies I’
 ### ⚡️ Libraries and Other Tools
 - **Autodesk Fusion 360**, **Autodesk Inventor**, **Google Sheets**, **Microsoft Excel**, **Verilog**, **Assembly**
 
----
-### 💻 Projects
-
-#### Spotify Skip Prediction
-- **Tech Stack**: Python, Pandas, Scikit-Learn, NumPy, Matplotlib, TensorFlow
-- Developed a model to predict whether a user will skip a song on Spotify.
-- Achieved **98% accuracy** and a **0.985 ROC-AUC score** on unseen data by experimenting with regularization and hyper-parameter tuning.
-
-#### Handwritten Digit Classifier
-- **Tech Stack**: Python, Scikit-Learn, NumPy, Matplotlib
-- Created a handwritten digit classifier using soft-margin SVMs on the MNIST dataset.
-- Incorporated the Pegasos algorithm for multi-class classification and achieved an accuracy of **90%**.
-
----
-
-Thank you for visiting my profile! 🚀
