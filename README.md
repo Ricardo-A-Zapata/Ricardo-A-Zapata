@@ -5,7 +5,7 @@
 - 📊 I'm passionate about **Data Science**, **Machine Learning**, and **Software Engineering**.
 - 🏆 Awards: **CA Students’ Choice Award**, **New CA of the Semester Award**, **Amazon Mini-Hackathon Winner**, **College Scholarship by Bears of South Florida for Demonstrated Leadership**.
 - 🌐 I’m fluent in **English** and **Spanish**.
-- ⚙️ I'm currently learning and expanding my skills in **React** and more advanced **Machine Learning** techniques.
+- ⚙️ I'm currently learning and expanding my skills in **React** and more advanced **Machine Learning** techniques such as **Deep Learning**.
 
 ---
 
