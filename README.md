@@ -37,5 +37,5 @@
 
 ---
 ### ⚡️ Libraries and Other Tools
-- **Autodesk Fusion 360**, **Autodesk Inventor**, **Google Sheets**, **Microsoft Excel**, **Verilog**, **Assembly**
+- **Autodesk Fusion 360**, **Autodesk Inventor**, **Google Sheets**, **Microsoft Excel**, **Verilog**, **Assembly**, **Vim**
 
