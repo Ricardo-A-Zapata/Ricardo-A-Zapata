@@ -12,7 +12,7 @@
 ### 🔗 Connect with me!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/ricardo--zapata" target="_blank">
+  <a href="https://www.linkedin.com/in/ricardo-a-zapata" target="_blank">
     <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
   </a>
 </p>
